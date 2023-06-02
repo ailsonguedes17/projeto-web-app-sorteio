@@ -32,5 +32,3 @@ function fecharPopUp() {
 }
 
 btnFechar.addEventListener("click", fecharPopUp)
-
-alert("oi eu sou o javascript")
